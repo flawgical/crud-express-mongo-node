@@ -1,0 +1,12 @@
+db.employees.insert(
+	[
+		{
+			name:'Mariana',
+			age:'24'
+		},
+		{
+			name:'Julian',
+			age:'f'		
+		}
+	]
+)
